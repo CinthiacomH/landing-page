@@ -50,7 +50,7 @@ Este projeto é uma landing page estática e não requer um servidor ou instala�
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone https://github.com/CinthiacomH/landing-page.git
     ```
 2.  **Acesse a pasta do projeto:**
     ```bash
